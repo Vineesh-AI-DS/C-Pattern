@@ -73,5 +73,7 @@ namespace Pattern
 
 ## Output:
 
+![patt](https://user-images.githubusercontent.com/93427254/226119117-853fbcc0-f2bb-4b55-b5f8-710160f307e8.png)
+
 ## Result:
 Hence, a C# program for a pascal's triangle is executed successfully.
